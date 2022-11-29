@@ -1,6 +1,6 @@
 # Hi, im Devin, and this is my Github description! 
 
-<!--- #### I am currently on a trip at Niagara falls --->
+ #### ***I am currently on a trip at Niagara falls***
 #
 - 👀 I’m interested in learning how to code.
 - 📖 I’m currently learning anything that im learning in school.
