@@ -1,6 +1,5 @@
 # Hi, im Devin, and this is my Github description! 
 
-#
 - 👀 I’m interested in learning how to code.
 - 📖 I’m currently learning anything that im learning in school.
 - 💞️ I’m looking to collaborate on a game because **I can make music and images for your game!**
