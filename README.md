@@ -1,7 +1,7 @@
 # Hi, im Devin, and this is my Github description! 
 
 - 👀 I’m interested in learning how to code.
-- 🎮 I am currently creating a **Roblox** game called,"Tram Game"
+- 🎮 I am currently creating **Roblox** games called,"Tram Game" and "FPS"
 - 📖 I’m currently learning anything that im learning in school.
 - 💞️ I’m looking to collaborate on a game because **I can make music and images for your game!**
 - 📫 You can get to me on **Discord** at **Monkey_Devin2#7933**
