@@ -9,7 +9,6 @@
 - ▶️ My **Youtube** channel is **Monkey_Devin2 YT**
 - **Some tips for Github README's are here: https://levelup.gitconnected.com/github-readme-cheatsheet-617dff61fa23**
 
-***Roblox, Xbox, Discord and Youtube are not mine, and are owned by other companies, so don't sue me!***
 
 
 <!--- use this for notes--->
