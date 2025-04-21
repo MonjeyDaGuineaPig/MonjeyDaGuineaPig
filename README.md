@@ -1,6 +1,6 @@
 # Important information about Monkey_Devin2
 
-- 🎮 I am currently creating a **Roblox** game called"Untitle Medieval Game"
+- 🎮 I am currently creating a **Roblox** game called "Untitled Medieval Game"
 - 📖 I’m currently learning how to make chatGPT work with roblox scripts
 - 🎮 My **Steam** account is **Monkey_Devin2**
 - 🎮 My **XBOX** username is **CuriousMonkey11**
