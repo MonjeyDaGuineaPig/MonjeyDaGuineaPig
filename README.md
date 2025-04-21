@@ -1,9 +1,8 @@
 # Hi, im Monkey_Devin2, and this is my Github description! 
 
-- 🎮 I am currently creating **Roblox** games called,"Tram Game" and "FPS"
-- 📖 I’m currently learning gui scripting
-- 📫 You can DM me on **Discord** at **Monkey_Devin2#7933**
-- 🐦 You can find me on **Twitter** at **Monkey_Devin2**
+- 🎮 I am currently creating a **Roblox** game called"Untitle Medieval Game"
+- 📖 I’m currently learning how to make chatGPT work with roblox scripts
+- 🎮 My **Steam** account is **Monkey_Devin2**
 - 🎮 My **XBOX** username is **CuriousMonkey11**
 - 🎮 My **Roblox** username is **Monkey_Devin2** ***( Display name: Monk)***
 - ▶️ My **Youtube** channel is **Monkey_Devin2 YT**
