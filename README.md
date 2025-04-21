@@ -1,4 +1,4 @@
-# Hi, im Monkey_Devin2, and this is my Github description! 
+# Important information about Monkey_Devin2
 
 - 🎮 I am currently creating a **Roblox** game called"Untitle Medieval Game"
 - 📖 I’m currently learning how to make chatGPT work with roblox scripts
